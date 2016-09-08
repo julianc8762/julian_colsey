@@ -1,0 +1,11 @@
+print("VVVVVVV, VVVVVVVV   .VVV.    ,VVVVVV, VVVVVVVV    ,VVVVVV, VV.   VV")
+print("VV   .VV VV        .VV VV.   VV    '' VV          VV'  'VV VVV.  VV")
+print("VVVVVVV' VVVVVV    VVVVVVV   VV       VVVVVV      VV    VV VVVV. VV")
+print("VV       VV      .VV     VV  VV    ,, VV          VV.  .VV VV  VVVV")
+print("VV       VVVVVVV.VV       VV.'VVVVVV' VVVVVVVV    'VVVVVV' VV   VVV")
+
+print("           VVVVVVVV    .VVV.    VVVVVVV, VVVVVVVV VV    VV")
+print("           VV         .VV VV.   VV    VV    VV    VV    VV")
+print("           VVVVVV    .VVVVVVV.  VVVVVVV'    VV    VVVVVVVV")
+print("           VV       .VV     VV. VV  VV.     VV    VV    VV")
+print("           VVVVVVVV.VV       VV.VV   VV.    VV    VV    VV")
